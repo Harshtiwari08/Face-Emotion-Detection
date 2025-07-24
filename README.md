@@ -1,6 +1,6 @@
 # Face Emotion Detector
 
-🎯 Try it now: [Live Demo](https://face-emotion-detector-app.streamlit.app/)
+🎯 Try it now: [Live Demo](https://face-emotion-detector--app.streamlit.app/)
 
 This is a fun and interactive web app that can detect human emotions from a face in a photo — just upload an image, and it tells you how the person is feeling!
 
